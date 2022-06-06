@@ -1,0 +1,64 @@
+.head {
+   height: 20vh;
+   background-color:white ;
+   text-align: center;
+   align-items: center;
+   display: flex;
+   border: solid gray 2px;
+
+}
+.header-text{
+font-size:60px;
+}
+#scimg{
+    height: 10vh;
+    width: 5vw;
+    margin-left: 2vw;
+}
+.btn-circle.btn-xl {
+    width: 80px;
+    height: 80px;
+    padding: 13px 18px;
+    border-radius: 60px;
+    font-size: 15px;
+    text-align: center;
+    margin-right: 2vw;
+}
+.loginbtn{
+    height: 30%;
+    width: 80%;
+    margin-right: 2vw;
+    margin-top: 5%;
+}
+#titlenote{
+    display: block;
+    font-size: 20px;
+    font-weight: normal;
+}
+.sidebar{
+border-left: solid gray 3px;
+padding:10px ;
+border-right: solid gray 3px;
+border-bottom: solid gray 3px;
+  height: 100vh;
+}
+.nav-item{
+    margin: 10px;
+}
+.dropdown{
+  margin-left: .2vw;
+}
+.dropdown-toggle{
+width: 14vw;
+}
+.dropdown-menu{
+    width: 14vw;
+}
+
+.test{
+    height: 5vh;
+}
+
+
+
+
